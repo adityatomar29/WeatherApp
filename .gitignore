@@ -1,0 +1,5 @@
+myenv/
+*.png
+weatherproject/weatherapp/__pycache__
+weatherproject/weatherapp/migrations/__pycache__
+weatherproject/weatherproject/__pycache__
