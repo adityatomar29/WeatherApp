@@ -17,7 +17,7 @@ Weather App is a Django-based web application that provides real-time weather in
 - User-friendly interface
 
 ▶️ Run the Django Server
-_ python manage.py runserver
+- python manage.py runserver
 
 The application will start locally at:
 
